@@ -1,0 +1,5 @@
+This is an unfinished top-down space shooter written with Python and Pygame.
+You can shoot enemies who have two different behaviours and you can collect life-powerUps.
+The programm keeps track of your lives but you cannot die at this point.
+
+If it is useful in any way for you, feel free to do what ever you want with this code.
